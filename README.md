@@ -1,5 +1,11 @@
 ## Hi, Iʼm Oñğarbaeva Aydana👋
 
+###😊 About Me:
+  🏫I am a student at Muhammad al-Xorazmiy mıyrasxorları.
+  💻I am currently learning HTML5 and CSS3.
+  ⚡I love solving logic puzzle.
+  🌍Based in Karakalpakstan, Uzbekistan.
+
 <!--
 **aydanaswe/aydanaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
